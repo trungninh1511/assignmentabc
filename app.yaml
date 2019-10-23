@@ -3,3 +3,7 @@ api_version: 1
 handlers:
 - url: /lecturer
   script: lecturer.php
+- url: /home
+  script: home.php
+- url: /lecturerAction
+  script: lecturerAction.php
