@@ -1,7 +1,7 @@
 <?php
 
 echo '
-<form action="/customerAction" method="post">
+<form action="/lecturerAction" method="post">
 Id: <input type="text" name="id" id="id"><br/>
 FirstName: <input type="text" firstname="id" id="firstname"><br/>
 LastName: <input type="text" lastname="id" id="lastname"><br/>
